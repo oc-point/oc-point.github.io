@@ -13,22 +13,20 @@ keywords:
   - holistic approach
 ---
 
-## Our Very Experienced Clinicians
+## Our Clinicians
 
 {% for item in site.data.clinicians %}
-<div class="container-fluid">
-  <h4 class="text-muted">{{item.title}}</h4>
+<div class="container-fluid p-0">
   <div class="row">
     <div class="col-sm-2">
       <img class="img-fluid" src="{{item.image}}" alt="{{item.title}}"><br>
     </div>
     <div class="col-sm-10">
-      <div class="row">
-	{% for entry in item.education %}
-    	  <i>{{entry.degree}}</i><br>
-  	{% endfor %}
-        {{item.summary}} <br>
-      </div>
+      <h4 class="text-muted">{{item.title}}</h4>
+      {% for entry in item.education %}
+        <i>{{entry.degree}}</i><br>
+      {% endfor %}
+      <br> {{item.summary}} <br>
     </div>
   </div>
 </div>
