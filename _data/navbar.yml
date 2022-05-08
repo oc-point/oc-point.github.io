@@ -1,10 +1,10 @@
 - name: Home
   link: /
-- name: Our Therapists
+- name: Therapists
   link: /clinicians.html
-- name: Apppointment Info
+- name: Apppointments
   link: /appointments.html
-- name: About Psychotherapy
+- name: Psychotherapy
   link: /therapy.html
-- name: Contact Us
+- name: Contact
   link: contact_us.html
