@@ -1,0 +1,6 @@
+url: "http://oc-point.com/"
+title: "Ocean Point Counseling, LLC"
+phone: <a href="tel:+1-609-231-3569">609-231-3569</a>
+
+plugins:
+  - jekyll-sitemap

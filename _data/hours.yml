@@ -1,0 +1,15 @@
+- day: Monday
+  start: 9AM
+  end: 5PM
+- day: Tuesday
+  start: 9AM
+  end: 5PM
+- day: Wednesday
+  start: 9AM
+  end: 5PM
+- day: Thursday
+  start: 9AM
+  end: 5PM
+- day: Friday
+  start: 9AM
+  end: 1PM

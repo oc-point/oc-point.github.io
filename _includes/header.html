@@ -1,0 +1,17 @@
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootswatch@4.6.0/dist/cerulean/bootstrap.css">
+    {% if page.summary %}
+      <meta name="description" content="{{ page.summary | escape }}">
+    {% endif %}
+    {% if page.keywords %}
+      <meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}"/>
+    {% endif %}
+    <meta name="google-site-verification" content="=ULlaISwxICM1Gpz3IZY84-V2B3D2aE83hlcTsXV019s">
+    <meta name="geo.region" content="US-NJ" />
+    <meta name="geo.placename" content="Ocean City" />
+    <meta name="ICBM" content="39.275402, -74.581429" />
+    <meta name="geo.position" content="39.275402;-74.581429" />
+</head>
