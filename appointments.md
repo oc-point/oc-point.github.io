@@ -62,7 +62,7 @@ At a very basic level, psychotherapy is an assessment of the client's situation 
 Depending on treatment needs, the length of time may vary. In most cases, though, appointments are typically 45-50 minutes. However, your first appointment may be up to 75 minutes long. <br>
 
 **Where is Ocean Point Counseling?** <br>
-We are located at 1228 Asbury Avenue, Ocean City, New Jersey. See our [Contact Us](./contact_us.html) page for information and maps to our offices. <br>
+We are located at 1228 Asbury Avenue, Ocean City, New Jersey. See our [Contact](./contact_us.html) page for information and maps to our offices. <br>
 
 **Who do I contact for an appointment?** <br>
 Call our offices at {{site.phone}} during normal working hours, 9a-5p, Monday through Friday. A receptionist can assist you then. After office-hours, you may leave a message. If you have an emergency, call 911 immediately. <br>
