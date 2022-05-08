@@ -56,7 +56,7 @@ We want to reassure you that all written and spoken information related to servi
 Just call us ({{site.phone}}). We would be happy to discuss your situation. If we cannot help you, we will let you know and refer you to a therapist that can. <br>
 
 **What is psychotherapy and how can it help?** <br>
-At a very basic level, psychotherapy is an assessment of the client's situation and strengths. From that assessment, an action plan is developed to help the client find relief and/or empowerment. However, psychotherapy is much more than that. Rather than duplicate the wonderful information available from the American Psychological Association (APA), please go to our [Therapy](./therapy.html) page. <br>
+At a very basic level, psychotherapy is an assessment of the client's situation and strengths. From that assessment, an action plan is developed to help the client find relief and/or empowerment. However, psychotherapy is much more than that. Rather than duplicate the wonderful information available from the American Psychological Association (APA), please go to our [Therapy](./therapy.html) page, where we provide a list of resources available from the APA. <br>
 
 **How long are appointments?** <br>
 Depending on treatment needs, the length of time may vary. In most cases, though, appointments are typically 45-50 minutes. However, your first appointment may be up to 75 minutes long. <br>
