@@ -19,7 +19,7 @@ keywords:
 <div class="container-fluid p-0">
   <div class="row">
     <div class="col-sm-2">
-      <img class="img-fluid" src="{{item.image}}" alt="{{item.title}}"><br>
+      <img class="img-fluid rounded shadow-sm clinician-photo" src="{{ item.image }}" alt="{{ item.title }}" loading="lazy"><br>
     </div>
     <div class="col-sm-10">
       <h4 class="text-muted">{{item.title}}</h4>

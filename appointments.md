@@ -68,7 +68,7 @@ We are located at 1228 Asbury Avenue, Ocean City, New Jersey. See our [Contact](
 Call our offices at {{site.phone}} during normal working hours, 9a-5p, Monday through Friday. A receptionist can assist you then. After office-hours, you may leave a message. If you have an emergency, call 911 immediately. <br>
 
 **Do you accept insurance?** <br>
-We accept Medicare and Horizon Blue Cross Blue Shield of NJ and are in the process of adding a few more insurance companies. For all other insurances, we are an "out-of-network" provider. Most insurance plans do provide reimbursement for out-of-network providers. If you would like, we will submit health care claims to your insurance company. Or, we will provide you with a receipt and you can submit the claim. You should be aware that your insurance company will require you to pay your annual deductible before they pay for any non-preventative health care services (whether in-network or out-of-network).<br>
+We accept Medicare, Horizon Blue Cross Blue Shield of NJ, and Aetna. For all other insurances, we are an "out-of-network" provider. Most insurance plans do provide reimbursement for out-of-network providers. If you would like, we will submit health care claims to your insurance company. Or, we will provide you with a receipt and you can submit the claim. You should be aware that your insurance company will require you to pay your annual deductible before they pay for any non-preventative health care services (whether in-network or out-of-network).<br>
 
 **What are your fees?** <br>
 Individual therapy is $200, couple counseling is $250 per session. If you cannot afford this, call the office. We will try to work with you on fees.<br>
