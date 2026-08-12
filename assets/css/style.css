@@ -4,3 +4,9 @@
   object-fit: cover;
   object-position: center center;
 }
+
+.degree-badge {
+  white-space: normal;
+  text-align: left;
+  display: inline-block;
+}

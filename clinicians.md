@@ -15,20 +15,25 @@ keywords:
 
 ## Our Clinicians
 
-{% for item in site.data.clinicians %}
-<div class="container-fluid p-0">
-  <div class="row">
-    <div class="col-sm-2">
-      <img class="img-fluid rounded shadow-sm clinician-photo" src="{{ item.image }}" alt="{{ item.title }}" loading="lazy"><br>
-    </div>
-    <div class="col-sm-10">
-      <h4 class="text-muted">{{item.title}}</h4>
-      {% for entry in item.education %}
-        <i>{{entry.degree}}</i><br>
-      {% endfor %}
-      <br> {{item.summary}} <br>
+<div class="container">
+  {% for item in site.data.clinicians %}
+  <div class="card shadow-sm mb-4">
+    <div class="card-body">
+      <div class="row align-items-start">
+        <div class="col-12 col-sm-3 text-center mb-3 mb-sm-0">
+	  <img class="img-fluid rounded shadow-sm clinician-photo" src="{{ item.image }}" alt="{{ item.title }}" loading="lazy">
+        </div>
+        <div class="col-12 col-sm-9">
+          <h4 class="card-title">{{ item.title }}</h4>
+          <div class="mb-2">
+            {% for entry in item.education %}
+            <span class="badge badge-light border mr-1 mb-1 degree-badge">{{ entry.degree }}</span>
+            {% endfor %}
+          </div>
+          <p class="card-text">{{ item.summary }}</p>
+        </div>
+      </div>
     </div>
   </div>
+  {% endfor %}
 </div>
-<br>
-{% endfor %}
