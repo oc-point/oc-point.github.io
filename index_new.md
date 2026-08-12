@@ -72,7 +72,7 @@ summary: Ocean Point Counseling provides therapy to individuals of all ages, cou
 <div class="bg-primary text-white py-5">
   <div class="container text-center">
     <p class="font-mono text-uppercase small mb-3" style="opacity:0.8;">Ready to talk?</p>
-    <h2 class="text-white mb-4">Call us today and together, we can start the healing process.</h2>
+    <h2 class="text-white mb-4">Call us today, and together, we can start the healing process.</h2>
     <a href="tel:+16092313569" class="btn btn-light btn-lg">Call {{ site.phone | strip_html }} &rarr;</a>
   </div>
 </div>
