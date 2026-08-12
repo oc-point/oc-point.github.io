@@ -61,7 +61,7 @@ summary: Ocean Point Counseling provides therapy to individuals of all ages, cou
       <div class="col-md-5">
         <div class="d-flex justify-content-center justify-content-md-start">
           {% for item in site.data.clinicians %}
-            <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" class="rounded-circle border border-white shadow-sm" style="width:64px;height:64px;object-fit:cover;margin-left:{% unless forloop.first %}-16px{% else %}0{% endunless %};">
+            <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" title="{{ item.title }}" class="rounded-circle border border-white shadow-sm" style="width:64px;height:64px;object-fit:cover;margin-left:{% unless forloop.first %}-16px{% else %}0{% endunless %};">
           {% endfor %}
         </div>
       </div>
