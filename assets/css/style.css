@@ -12,3 +12,7 @@
   max-width: 100%;
   word-break: break-word;
 }
+
+.text-muted {
+  color: #5a5a5a !important;
+}

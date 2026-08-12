@@ -30,7 +30,7 @@ keywords:
             <span class="badge badge-light border mr-1 mb-1 degree-badge">{{ entry.degree }}</span>
             {% endfor %}
           </div>
-          <p class="card-text">{{ item.summary }}</p>
+          <p class="text-muted">{{ item.summary }}</p>
         </div>
       </div>
     </div>

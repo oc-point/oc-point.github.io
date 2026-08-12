@@ -24,7 +24,7 @@ summary: Ocean Point Counseling provides therapy to individuals of all ages, cou
 
 <div class="container pt-5 pb-2 text-center">
   <p class="font-mono text-muted text-uppercase small mb-3">Welcome</p>
-  <p class="lead mx-auto" style="max-width:640px;">Ocean Point Counseling provides therapy to individuals of all ages, couples, and families. Please feel free to call us to find out how we can help you or your loved one.</p>
+  <p class="lead mx-auto text-muted" style="max-width:640px;">Ocean Point Counseling provides therapy to individuals of all ages, couples, and families. Please feel free to call us to find out how we can help you or your loved one.</p>
 </div>
 
 <div class="bg-light py-5">
