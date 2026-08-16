@@ -59,7 +59,7 @@ Just call us ({{site.phone}}). We would be happy to discuss your situation. If w
 At a very basic level, psychotherapy is an assessment of the client's situation and strengths. From that assessment, an action plan is developed to help the client find relief and/or empowerment. However, psychotherapy is much more than that. Rather than duplicate the wonderful information available from the American Psychological Association (APA), please go to our [Therapy](./therapy.html) page, where we provide a list of resources available from the APA. <br>
 
 **How long are appointments?** <br>
-Depending on treatment needs, the length of time may vary. In most cases, though, appointments are typically 45-50 minutes. However, your first appointment may be up to 75 minutes long. <br>
+Depending on treatment needs, the length of time may vary. In most cases, though, appointments are typically 50-60 minutes. However, your first appointment may be up to 75 minutes long. <br>
 
 **Where is Ocean Point Counseling?** <br>
 We are located at 1228 Asbury Avenue, Ocean City, New Jersey. See our [Contact](./contact_us.html) page for information and maps to our offices. <br>
